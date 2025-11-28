@@ -1,0 +1,60 @@
+# ---------------------------------
+# IntelliJ / Android Studio
+# ---------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Workspace-specific files
+/.shelf/
+/workspace.xml
+
+# ---------------------------------
+# Gradle
+# ---------------------------------
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# ---------------------------------
+# Local Config
+# ---------------------------------
+local.properties
+*.keystore
+*.jks
+
+# ---------------------------------
+# Android Generated
+# ---------------------------------
+captures/
+.cxx/
+.externalNativeBuild/
+navigation.json
+
+# ---------------------------------
+# macOS
+# ---------------------------------
+.DS_Store
+
+# ---------------------------------
+# Logs
+# ---------------------------------
+*.log
+
+# ---------------------------------
+# Kotlin / Java / JVM
+# ---------------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.kotlin_metadata
+*.kotlin_module
+
+# ---------------------------------
+# Others
+# ---------------------------------
+Thumbs.db
