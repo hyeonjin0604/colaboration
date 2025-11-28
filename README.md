@@ -1,4 +1,4 @@
-# colaboration
+# colaboration practice
 
 ## 팀 이름
 
@@ -17,4 +17,3 @@ In a pair of Truth Social posts late Thursday night, Trump said he would “perm
 
 # 1. 깃 충돌 테스트 입니다.
 ## 2. 우와!
-
